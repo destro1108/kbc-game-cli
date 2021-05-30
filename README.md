@@ -14,7 +14,7 @@
 ### SETUP THE GAME CODE.
 
   *  Install git
-  * `git clone https://github.com/devs-nest/kbc.git`
+  * `git clone https://github.com/destro1108/kbc-game-cli.git`
   * `python kbc.py` (to run code, you would be using python3) 
 
 
